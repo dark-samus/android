@@ -1,5 +1,5 @@
 <manifest>
     <remote name="github" fetch="git://github.com" />
 
-    <project path="device/samsung/iconvmu" name="dark-samus/android_device_iconvmu" remote="github" revision="master" />
-    <project path="vendor/samsung/iconvmu" name="dark-samus/android_vendor_iconvmu" remote="github" revision="master" />
+    <project path="device/samsung/iconvmu" name="dark-samus/android_device_iconvmu" remote="github" revision="Jellybean" />
+    <project path="vendor/samsung/iconvmu" name="dark-samus/android_vendor_iconvmu" remote="github" revision="Jellybean" />
